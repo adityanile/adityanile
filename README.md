@@ -6,7 +6,7 @@
 - 🧱 Currently building **[azure-architect-lab](https://github.com/adityanile/azure-architect-lab)** — well-architected Azure solutions using reusable Terraform & Bicep modules, validated against a 100-point Well-Architected evaluation matrix
 - 🤖 Building **[CareerSynth](https://github.com/adityanile/CareerSynth)** — an agentic AI platform that remembers your professional history, Deloyed with Azure DevOps
 - ⚙️ Designed cloud architecture as **Azure Cloud Architect** for **Clynto AI**, a multi-region AI-first customer success startup
-- 🔩 Automated **PTC's Performance Engine / PLM workflow validation** using **ServiceNow ATF**, packaged into reusable Copilot skills for future orchestrations
+- 🔩 Designed **PTC's Performance Engine & PLM workflow validation** using **ServiceNow ATF**
 - 🌍 Open to freelance / contract work on Azure infra, platform automation, and AI-agent systems for startups
 
 ### What I work with
