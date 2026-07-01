@@ -3,7 +3,7 @@
 **Azure Solutions Architect Expert** & **AI-Native Platform Engineer** — building at the intersection of cloud infrastructure and AI workloads.
 
 - ☁️ Azure-certified: **AZ-305** (Solutions Architect Expert), **AZ-400** (DevOps Engineer Expert), **AI-102** (Azure AI Engineer Associate)
-- 🏗️ Freelance Azure Cloud Architect — designed and delivered a multi-region, compliance-first AKS platform for **[Clynto AI](https://github.com/adityanile/clynto-ai-case-study)**, an AI-first customer success startup operating across East US and Central India
+- 🏗️ Freelance Azure Cloud Architect — designed and delivered a multi-region, compliance-first AKS platform for **[Clynto AI](https://github.com/adityanile/ClyntoCaseStudy)**, an AI-first customer success startup operating across East US and Central India
 - 🤖 Built an autonomous AI operations platform at **PTC Software** — natural language to validated SaltStack/Terraform workflow execution across enterprise cloud environments
 - 🚀 Building **[CareerSynth](https://github.com/adityanile/CareerSynth)** — a live AI-powered career acceleration platform at [careersynth.app](https://careersynth.app), built on Azure Container Apps with Microsoft Agent Framework
 - 🧱 Currently building **[azure-architect-lab](https://github.com/adityanile/azure-architect-lab)** — well-architected Azure solutions validated against a 100-point Well-Architected evaluation matrix
