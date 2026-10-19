@@ -7,30 +7,17 @@
 
 ## What I've built
 
-### [Clynto AI](https://github.com/adityanile/ClyntoCaseStudy)
-A multi-region, compliance-first platform, designed and delivered solo for an AI-first startup across East US and Central India. It has mirrored production and staging environments, GitOps delivery, policy-enforced governance, and backup with a **5-minute RPO / 25-minute RTO**.
+### 🌍 Two regions. Two environments. One engineer.
+**[Clynto AI](https://github.com/adityanile/ClyntoCaseStudy)** — I designed and delivered a multi-region, compliance-first platform solo, with policy-enforced governance and recovery targets of **5 minutes RPO / 25 minutes RTO**.
 
-### [PTC Performance Engine](https://github.com/adityanile/PerformanceEngineCaseStudy)
-An autonomous AI operations platform at PTC Software. It turns natural language into validated, executable infrastructure workflows across enterprise cloud environments, with checks before anything runs.
+### 🤖 From a sentence to a validated infrastructure change
+**[PTC Performance Engine](https://github.com/adityanile/PerformanceEngineCaseStudy)** — an AI operations platform that turns plain language into checked, executable workflows across enterprise cloud environments.
 
-### [CareerSynth](https://github.com/adityanile/CareerSynth)
-A live AI-powered career acceleration platform at [careersynth.app](https://careersynth.app). I designed, built and run it end to end.
+### 🚀 Live in production, built end to end
+**[CareerSynth](https://github.com/adityanile/CareerSynth)** — an AI-powered career platform at [careersynth.app](https://careersynth.app). I designed it, built it and run it.
 
-### [azure-architect-lab](https://github.com/adityanile/azure-architect-lab)
-Well-architected Azure solutions, each validated against a **100-point evaluation matrix**. Built in the open.
-
----
-
-## Case studies
-
-| Project | What it is | Outcome |
-|:--|:--|:--|
-| [**Clynto AI**](https://github.com/adityanile/ClyntoCaseStudy) | Multi-region platform with GitOps and GDPR + PCI-DSS compliance | **2 regions × 2 environments**, built solo |
-| [**CareerSynth**](https://github.com/adityanile/CareerSynth) | AI career acceleration platform | **Live in production** |
-| [**PTC Performance Engine**](https://github.com/adityanile/PerformanceEngineCaseStudy) | AI agent orchestrating enterprise infrastructure workflows | **Natural language to validated execution** |
-| [**PTC ServiceNow ATF**](https://github.com/adityanile/ATF-FrameworkCaseStudy) | Test automation for business-critical enterprise workflows | **2–3 days → under 5 minutes** |
-| [**PCCoE Attendance**](https://github.com/adityanile/AttendanceAppCaseStudy) | Attendance platform integrated with the college ERP | **2,500+ sessions in 24 hours** |
-| [**BrainDasher**](https://github.com/adityanile/BrainDasher_V2) | Distributed competition platform | **100+ concurrent users, zero downtime** |
+### 📐 Every design scored out of 100
+**[azure-architect-lab](https://github.com/adityanile/azure-architect-lab)** — well-architected solutions, each validated against a 100-point evaluation matrix, built in the open.
 
 ---
 
