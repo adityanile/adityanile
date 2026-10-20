@@ -7,8 +7,8 @@
 
 ## What I've built
 
-### 🌍 Two regions. Two environments. One engineer.
-**[Clynto AI](https://github.com/adityanile/ClyntoCaseStudy)** — I designed and delivered a multi-region, compliance-first platform solo, with policy-enforced governance and recovery targets of **5 minutes RPO / 25 minutes RTO**.
+### 🌍 Two regions. Two environments.
+**[Clynto AI](https://github.com/adityanile/ClyntoCaseStudy)** — I designed and delivered a multi-region, compliance-first platform , with policy-enforced governance and recovery targets of **5 minutes RPO / 25 minutes RTO**.
 
 ### 🤖 From a sentence to a validated infrastructure change
 **[PTC Performance Engine](https://github.com/adityanile/PerformanceEngineCaseStudy)** — an AI operations platform that turns plain language into checked, executable workflows across enterprise cloud environments.
