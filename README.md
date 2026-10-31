@@ -5,19 +5,24 @@
 
 ---
 
-## What I've built
+## What I do
 
-### 🌍 Two regions. Two environments.
-**[Clynto AI](https://github.com/adityanile/ClyntoCaseStudy)** — I designed and delivered a multi-region, compliance-first platform , with policy-enforced governance and recovery targets of **5 minutes RPO / 25 minutes RTO**.
+### 🧱 Core platform architecture
+I design the foundation that everything else stands on, so the layers above it can move fast without breaking.
 
-### 🤖 From a sentence to a validated infrastructure change
-**[PTC Performance Engine](https://github.com/adityanile/PerformanceEngineCaseStudy)** — an AI operations platform that turns plain language into checked, executable workflows across enterprise cloud environments.
+### ⚙️ Infrastructure from scratch
+I take an empty environment to production-ready: designed, built, automated and documented end to end.
 
-### 🚀 Live in production, built end to end
-**[CareerSynth](https://github.com/adityanile/CareerSynth)** — an AI-powered career platform at [careersynth.app](https://careersynth.app). I designed it, built it and run it.
+### 🛡️ Security, reliability and efficiency
+I architect solutions that balance all three from day one, instead of trading one for another later.
 
-### 📐 Every design scored out of 100
-**[azure-architect-lab](https://github.com/adityanile/azure-architect-lab)** — well-architected solutions, each validated against a 100-point evaluation matrix, built in the open.
+### 🔩 Bare metal and native work
+I'm most at home close to the metal, where the real behavior of a system lives, below the abstractions.
+
+### 💻 Code that makes life easy
+I write the tooling and automation that removes repetitive work, so people can focus on the problems that matter.
+
+> I like working at the core: the layers everything else depends on, where good design pays off for everything above it.
 
 ---
 
