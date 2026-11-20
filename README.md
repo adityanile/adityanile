@@ -1,4 +1,5 @@
 ![AZ-305](https://img.shields.io/badge/AZ--305-Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AB-100](https://img.shields.io/badge/AB--100-Agentic_AI_Business_Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AZ-400](https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AZ-104](https://img.shields.io/badge/AZ--104-Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AI-102 and AI-103](https://img.shields.io/badge/AI--102_·_AI--103-Azure_AI_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
